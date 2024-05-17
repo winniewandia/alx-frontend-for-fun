@@ -6,3 +6,4 @@
 5. Flexify the header
 6. Flexify the navbar
 7. Align center logo and navbar
+8. Simplify the hero banner

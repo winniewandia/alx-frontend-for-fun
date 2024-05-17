@@ -10,3 +10,4 @@
 9. Better alignment about us
 10. Creating an article by fixing issues and updating hero styles
 11. Update the new hero banner
+12. The structure of the main article

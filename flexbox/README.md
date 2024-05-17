@@ -4,3 +4,4 @@
 3. Using flex-wrap
 4. Playing around with the spacing between flex service items
 5. Flexify the header
+6. Flexify the navbar

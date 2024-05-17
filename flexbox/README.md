@@ -7,3 +7,4 @@
 6. Flexify the navbar
 7. Align center logo and navbar
 8. Simplify the hero banner
+9. Better alignment about us

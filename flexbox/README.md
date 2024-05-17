@@ -13,3 +13,4 @@
 12. The structure of the main article
 13. The meta list inside the aside section
 14. Add the share social icons
+15. Finalizing the cherry on the cake that is the article
